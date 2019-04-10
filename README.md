@@ -1,0 +1,1 @@
+A ROMHack with the end goal of making a more inclusive Harvest Moon for LGBTQ+ identities.
